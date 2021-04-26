@@ -1,1 +1,3 @@
 # JSExercises
+
+JavaScript exercises resolution :)
